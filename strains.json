@@ -1,0 +1,31 @@
+{
+        "strains": [
+                {
+                        "id": 100101,
+                        "name": "SourKrout",
+                        "terps": ["Mycrene", "Limonene", "Beta-Caryophyllene"],
+                        "effects": ["relax","celebral","focus"],
+                        "taste": ["sour", "petrol", "herbs"],
+                        "thc": 19,
+                        "cbd": 1,
+                        "heritage": {
+                                "indica": 50,
+                                "sativa": 50,
+                                "parents": {
+                                        "mother": "lemon Skunk - Fast Buds 42",
+                                        "father": "Sour Diesel - Barneys Farm",
+                                }
+                        },
+                        "size": {
+                                "height": "90 - 160 cm indoor / 140 - 250 cm outdoor",
+                                "diameter": "40 - 60 cm indoor / 60 - 120 cm",
+                                "iyield": "450 - 650 g",
+                                "oyield": "800 - 1200 g",
+                                "structure": "skinny angles",
+                                "leaves": "fat overlapping strong spiked leaves",
+                        }
+                        "description": "",
+                        "manual": "",
+                }
+        ]
+}
