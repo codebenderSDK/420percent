@@ -3,6 +3,8 @@
                 {
                         "id": 100101,
                         "name": "SourKrout",
+                        "sex": "Regular",
+                        "photo": "Natural",
                         "terps": ["Mycrene", "Limonene", "Beta-Caryophyllene"],
                         "effects": ["relax","celebral","focus"],
                         "taste": ["sour", "petrol", "herbs"],
@@ -12,8 +14,8 @@
                                 "indica": 50,
                                 "sativa": 50,
                                 "parents": {
-                                        "mother": "lemon Skunk - Fast Buds 42",
-                                        "father": "Sour Diesel - Barneys Farm",
+                                        "mother": "Lemon Skunk - DNA Genetics",
+                                        "father": "Sour Diesel - The Bulldog Seeds",
                                 }
                         },
                         "size": {
@@ -23,9 +25,69 @@
                                 "oyield": "800 - 1200 g",
                                 "structure": "skinny angles",
                                 "leaves": "fat overlapping strong spiked leaves",
-                        }
+                        },
+                        "duration": {
+                                "indoor": "70-75 days",
+                                "outdoor": "april - october",
+                        },      
                         "description": "",
                         "manual": "",
-                }
+                        "prices": {
+                                "5pack": 20,
+                                "10pack": 35,
+                                "20pack": 65,
+                                "50pack": 150,
+                                "100pack": 280,
+                                "200pack": 520,
+                                "500pack": 1200,
+                                "1Kpack": 2200,
+                                "2Kpack": 4000,
+                        },
+                },
+                {
+                        "id": 200101,
+                        "name": "SourKrout",
+                        "sex": "Feminised",
+                        "photo": "Natural",
+                        "terps": ["Mycrene", "Limonene", "Beta-Caryophyllene"],
+                        "effects": ["relax","celebral","focus"],
+                        "taste": ["sour", "petrol", "herbs"],
+                        "thc": 19,
+                        "cbd": 1,
+                        "heritage": {
+                                "indica": 50,
+                                "sativa": 50,
+                                "parents": {
+                                        "mother": "Lemon Skunk - DNA Genetics",
+                                        "father": "Sour Diesel - The Bulldog Seeds",
+                                }
+                        },
+                        "size": {
+                                "height": "90 - 160 cm indoor / 140 - 250 cm outdoor",
+                                "diameter": "40 - 60 cm indoor / 60 - 120 cm",
+                                "iyield": "450 - 650 g",
+                                "oyield": "800 - 1200 g",
+                                "structure": "skinny angles",
+                                "leaves": "fat overlapping strong spiked leaves",
+                        },
+                        "duration": {
+                                "indoor": "70-75 days",
+                                "outdoor": "april - october",
+                        },      
+                        "description": "",
+                        "manual": "",
+                        "prices": {
+                                "5pack": 20,
+                                "10pack": 35,
+                                "20pack": 65,
+                                "50pack": 150,
+                                "100pack": 280,
+                                "200pack": 520,
+                                "500pack": 1200,
+                                "1Kpack": 2200,
+                                "2Kpack": 4000,
+                        },
+                },
+                
         ]
 }
