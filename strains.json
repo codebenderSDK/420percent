@@ -2,7 +2,7 @@
         "strains": [
                 {
                         "id": 100101,
-                        "name": "SourKrout",
+                        "name": "Sour Krout",
                         "sex": "Regular",
                         "photo": "Natural",
                         "terps": ["Mycrene", "Limonene", "Beta-Caryophyllene"],
@@ -90,7 +90,7 @@
                 },
                 {
                         "id": 100103,
-                        "name": "GreenChedda",
+                        "name": "Green Chedda",
                         "sex": "Regular",
                         "photo": "Natural",
                         "terps": ["Beta-Caryophyllene", "Alpha-Pinene", "Limonene"],
@@ -117,6 +117,50 @@
                         "duration": {
                                 "indoor": "73-78 days",
                                 "outdoor": "april - october",
+                        },      
+                        "description": "",
+                        "manual": "",
+                        "prices": {
+                                "5pack": 20,
+                                "10pack": 35,
+                                "20pack": 65,
+                                "50pack": 150,
+                                "100pack": 280,
+                                "200pack": 520,
+                                "500pack": 1200,
+                                "1Kpack": 2200,
+                                "2Kpack": 4000,
+                        },
+                },
+                {
+                        "id": 100104,
+                        "name": "NepaleseBrainwreck",
+                        "sex": "Regular",
+                        "photo": "Natural",
+                        "terps": ["Beta-Caryophyllene", "Alpha-Pinene", "Limonene"],
+                        "effects": ["relax","celebral","focus"],
+                        "taste": ["cheese", "earth", "pepper"],
+                        "thc": 19,
+                        "cbd": 3,
+                        "heritage": {
+                                "indica": 50,
+                                "sativa": 50,
+                                "parents": {
+                                        "mother": "Nepalese - Natural Landrace",
+                                        "father": "Trainwreck - Humboldt Seeds",
+                                }
+                        },
+                        "size": {
+                                "height": "100 - 160 cm indoor / 140 - 250 cm outdoor",
+                                "diameter": "50 - 70 cm indoor / 60 - 120 cm",
+                                "iyield": "400 - 600 g",
+                                "oyield": "400 - 800 g",
+                                "structure": "medium angles",
+                                "leaves": "fat overlapping strong spiked leaves",
+                        },
+                        "duration": {
+                                "indoor": "77-82 days",
+                                "outdoor": "april - november",
                         },      
                         "description": "",
                         "manual": "",
