@@ -1,0 +1,21 @@
+:root {
+      --bg-color: #ffffff;
+      --text-color: #000000;
+      --button-bg: #007bff;
+      --button-text: #ffffff;
+      --border-color: #ddd;
+}
+[data-theme="dark"] {
+      --bg-color: #121212;
+      --text-color: #ffffff;
+      --button-bg: #bb86fc;
+      --button-text: #000000;
+      --border-color: #333;
+}
+[data-theme="irie"] {
+      --bg-color: #121212;
+      --text-color: #0d47a1;
+      --button-bg: #1976d2;
+      --button-text: #ffffff;
+      --border-color: #90caf9;
+}
