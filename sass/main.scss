@@ -1,3 +1,15 @@
-@import "light.scss";
-@import "dark.scss";
-@import "irie.scss"
+@import "col/light.scss";
+@import "col/dark.scss";
+@import "col/irie.scss";
+@import "col/anon.scss";
+@import "col/grey.scss";
+@import "layout/mobile.scss";
+@import "layout/tablet.scss";
+@import "layout/display.scss";
+
+*{
+  padding: 0;
+  margin: 0;
+  user-select: none;
+  cursor: default;
+}
