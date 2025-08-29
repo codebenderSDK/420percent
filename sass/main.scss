@@ -4,27 +4,59 @@
       --button-bg: #007bff;
       --button-text: #ffffff;
       --border-color: #ddd;
-    }
+}
 [data-theme="dark"] {
       --bg-color: #121212;
       --text-color: #ffffff;
       --button-bg: #bb86fc;
       --button-text: #000000;
       --border-color: #333;
-    }
+}
 [data-theme="irie"] {
       --bg-color: #121212;
       --text-color: #0d47a1;
       --button-bg: #1976d2;
       --button-text: #ffffff;
       --border-color: #90caf9;
-    }
+}
+* {
+      padding: 0;
+      margin: 0;
+      user-select: none;
+      cursor: default;
+      transition: all 0.3s ease;
+}
+body {
+      background-color: var(--bg-color);
+      color: var(--text-color);
+}
+button {
+      background-color: var(--button-bg);
+      color: var(--button-text);
+      border: 2px solid var(--border-color);
+      padding: 1rem 2rem;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 1rem;
+      font-weight: bold;
+}
 
-*{
-  padding: 0;
-  margin: 0;
-  user-select: none;
-  cursor: default;
+button:hover {
+      opacity: 0.8;
+      transform: translateY(-2px);
+}
+
+button.active {
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      transform: scale(1.05);
+}
+
+.demo-content {
+      background-color: var(--bg-color);
+      border: 2px solid var(--border-color);
+      padding: 2rem;
+      border-radius: 12px;
+      margin-top: 2rem;
 }
 
 @media (max-width: 767px) and (pointer: coarse) {
